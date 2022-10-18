@@ -1,1 +1,1 @@
-
+The user should put an up-to-date chromedriver file under this folder, naming it exactly as "chromedriver". The twspider.py file will use this folder as a path.
