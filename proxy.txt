@@ -1,1 +1,3 @@
 http://127.0.0.1:1086,socks5://127.0.0.1:1086
+
+*Above is an example of the proxy format, please change to your own proxy address accordingly. If proxy is not needed, please disable the proxy in twspider.py*
