@@ -12,4 +12,5 @@
 - Now run twspider.py, input the name of the txt file you just saved in "HAR" folder. Then the scraper will start downloading all the images into the following path: ../Archive/[NameofTwitterUser]/. After downloads are finished, the scraper will say download finished and it can be terminated if needed.
 
 
+*About the proxy setting: the proxy setting is in default on. If you don't need it, you can change the code in twspider.py to disable it. Please adjust accordingly to your own proxy setting in the proxy.txt file if you need the proxy. 
 
